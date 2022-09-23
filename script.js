@@ -1,7 +1,7 @@
 function setCookie(Default, value, options = {}) {
 
   options = {
-    path: 'https://blaizinginfernodragon123.github.io/youtube-video-downloader-/',
+    path: 'varshithvhegde.github.io/ytd/',
     // add other defaults here if necessary
     ...options
   };
